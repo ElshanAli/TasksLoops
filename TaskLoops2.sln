@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32407.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskLoops2", "TaskLoops2\TaskLoops2.csproj", "{A2C77349-DA47-4AF8-92A1-5E2943B88B01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2C77349-DA47-4AF8-92A1-5E2943B88B01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2C77349-DA47-4AF8-92A1-5E2943B88B01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2C77349-DA47-4AF8-92A1-5E2943B88B01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2C77349-DA47-4AF8-92A1-5E2943B88B01}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA18121F-A99F-4212-AC7E-520C1DD4BB34}
+	EndGlobalSection
+EndGlobal

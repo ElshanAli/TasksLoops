@@ -1,0 +1,14 @@
+D:\This PC\TaskLoops2\TaskLoops2\bin\Debug\netcoreapp3.1\TaskLoops2.exe
+D:\This PC\TaskLoops2\TaskLoops2\bin\Debug\netcoreapp3.1\TaskLoops2.deps.json
+D:\This PC\TaskLoops2\TaskLoops2\bin\Debug\netcoreapp3.1\TaskLoops2.runtimeconfig.json
+D:\This PC\TaskLoops2\TaskLoops2\bin\Debug\netcoreapp3.1\TaskLoops2.runtimeconfig.dev.json
+D:\This PC\TaskLoops2\TaskLoops2\bin\Debug\netcoreapp3.1\TaskLoops2.dll
+D:\This PC\TaskLoops2\TaskLoops2\bin\Debug\netcoreapp3.1\TaskLoops2.pdb
+D:\This PC\TaskLoops2\TaskLoops2\obj\Debug\netcoreapp3.1\TaskLoops2.csproj.AssemblyReference.cache
+D:\This PC\TaskLoops2\TaskLoops2\obj\Debug\netcoreapp3.1\TaskLoops2.GeneratedMSBuildEditorConfig.editorconfig
+D:\This PC\TaskLoops2\TaskLoops2\obj\Debug\netcoreapp3.1\TaskLoops2.AssemblyInfoInputs.cache
+D:\This PC\TaskLoops2\TaskLoops2\obj\Debug\netcoreapp3.1\TaskLoops2.AssemblyInfo.cs
+D:\This PC\TaskLoops2\TaskLoops2\obj\Debug\netcoreapp3.1\TaskLoops2.csproj.CoreCompileInputs.cache
+D:\This PC\TaskLoops2\TaskLoops2\obj\Debug\netcoreapp3.1\TaskLoops2.dll
+D:\This PC\TaskLoops2\TaskLoops2\obj\Debug\netcoreapp3.1\TaskLoops2.pdb
+D:\This PC\TaskLoops2\TaskLoops2\obj\Debug\netcoreapp3.1\TaskLoops2.genruntimeconfig.cache
